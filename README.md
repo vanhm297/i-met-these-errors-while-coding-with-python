@@ -3,10 +3,10 @@
 
 Tbh I'm not sure how this error was solved. What I did just:
 
-+ search for answers on Stackoverflow but none of them helps
-+ ask my friend but she didn't reply
-+ write some bad commands in Command Prompt then be terrified by what appeared next on the screen
-+ shut down the computer and go to sleep
++ searched for answers on Stackoverflow but none of them helped
++ asked my friend but she didn't reply
++ wrote some bad commands in Command Prompt then be terrified by what appeared next on the screen
++ shut down the computer and went to sleep
 
 and the next day my code run magically :)???
 
@@ -14,7 +14,7 @@ and the next day my code run magically :)???
 
 again be terrified by what showed up on the screen while installing pyaudio.
 
-But luckily I have a perfect answer on StackOverFlow hohoo
+Luckily I found a perfect answer on StackOverFlow hohoo
 
           pip install pipwin
           pipwin install pyaudio
