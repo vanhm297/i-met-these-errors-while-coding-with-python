@@ -1,9 +1,9 @@
-# i-met-those-errors-while-coding-with-python
+# i-met-these-errors-while-coding-with-python
 1. No module named 'pywintypes after installing "pyttsx3" (Text to Speech):
 
 Tbh I'm not sure how this error was solved. What I did just:
 
-+ search for answers on Stackoverflow but none of them helped
++ search for answers on Stackoverflow but none of them helps
 + ask my friend but she didn't reply
 + write some bad commands in Command Prompt then be terrified by what appeared next on the screen
 + shut down the computer and go to sleep
