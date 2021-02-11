@@ -28,8 +28,10 @@ How to solve: rename the file and delete the old file
 4. webbrowser.Error: could not locate runnable browser
 
 To open a website in my web browser, I followed the model codes:
+
           import webbrowser
           webbrowser.open("https://google.com")
+          
 It worked, but it opened in my default browser, which is Microsoft Edge, the browser I didn't want. I would be very happy if it was Google Chrome. 
 
 How I changed it into Google Chrome (follow the instruction on StackOverFlow of course):
@@ -37,6 +39,7 @@ How I changed it into Google Chrome (follow the instruction on StackOverFlow of 
  + get Google Chrome's location (mine is: C:\Program Files\Google\Chrome\Application)
  + Start - Settings - Edit Enviroment variables - Enviroment variables - Path in System variables - Edit - Paste the Google Chrome's location - OK
  + rewrite the codes:
+ 
            import webbrowser
            webbrowser.get("chrome %s).open("https://google.com")
                     
